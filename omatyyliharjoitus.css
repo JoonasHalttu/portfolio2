@@ -1,0 +1,56 @@
+body{
+  background-color:antiquewhite;
+  color:black;
+  font-family:Arial, Helvetica, sans-serif;
+ font-weight:normal;
+  font-size:12px;
+  line-height:1.5em;
+ margin:95px;
+}
+
+.yhteys{
+  padding:10px;
+  width:100%;
+  margin:auto;
+}
+.listat{
+  padding:10px 15px;
+  width:70%;
+  margin:auto;
+}
+.lista label{
+  display: block;
+}
+.nimi input[type="text"], .nimi textare{
+  padding:10px;
+  width:100%;
+  margin:auto;
+}
+
+
+
+  .napit{
+  color:white;
+  background-color:black;
+  padding:10px;
+ border:none;
+  }
+  .napit:hover{
+  background-color:rgb(255, 0, 0);
+  color:white;
+}
+.napit{
+  float:left;
+  width:10%;
+  border:2px solid black;
+  padding:10px;
+  box-sizing: border-box;
+  margin-top:25px;
+}
+.napit{
+  position:fixed;
+  top:100px;
+  left:0px;
+}
+ 
+
