@@ -27,4 +27,4 @@ var data = JSON.stringify({
   "EmailName": "Teppo Tyyppi" //Nimi-kentän sisältö
 });
 xhr.send(data);
-}
+} 
